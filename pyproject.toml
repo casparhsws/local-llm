@@ -1,0 +1,11 @@
+[project]
+name = "local-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.99.1",
+    "rich>=14.1.0",
+    "tiktoken>=0.10.0",
+]
